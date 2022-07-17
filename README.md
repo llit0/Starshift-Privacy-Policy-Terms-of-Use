@@ -17,9 +17,9 @@ The app does use third-party services that may collect information used to ident
 
 ## Link to the privacy policy of third-party service providers used by the app
 
-[Google Play Services](https://policies.google.com/privacy)
-[Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-[Unity](https://unity3d.com/legal/privacy-policy)
+-[Google Play Services](https://policies.google.com/privacy)
+-[Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+-[Unity](https://unity3d.com/legal/privacy-policy)
 
 ## Log Data
 
