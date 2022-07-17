@@ -1,4 +1,4 @@
-# Starshift-Privacy-Policy-Terms-of-Use
+# Starshift-Privacy-Policy
 
 ## Privacy Policy
 Iurii Kamnev built the StarShift app as a Freemium app. This SERVICE is provided by Iurii Kamnev at no cost and is intended for use as is.
